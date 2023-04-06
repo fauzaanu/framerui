@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}" itemscope itemtype="http://schema.org/WebPage">
+{{- partial "head.html" . -}}
+
+{{/*  making sure it stays darkmode todo: this isnt right.  */}}
+<script>
+  // On page load or when changing themes
+  const darkmode = document.querySelector('.toggle-dark-mode');
+  // alert(document.documentElement.classList.contains('dark'));
+
+  if (document.documentElement.classList.contains('dark') == false) {
+    document.documentElement.classList.add('dark')
+    localStorage.setItem('darkmode', 'dark')
+  }
+</script>
+
+<body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen">
+  {{- partial "header.html" . -}}
+  <main class="flex-1">
+
+    {{- block "main" . }}{{- end }}
+  </main>
+  {{- partial "footer.html" . -}}
+</body>
+
+</html>
