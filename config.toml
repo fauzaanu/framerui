@@ -1,11 +1,9 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://audiopollution.com"
 metaDataFormat = "yaml"
 title = "AudioPollution.com"
 theme = "blist-hugo-theme"
 googleAnalytics = "G-GFXL9JK026"
 enableRobotsTXT = true
-
-
 
 [languages]
   [languages.en]
