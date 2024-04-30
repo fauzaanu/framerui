@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: AudioPollution.com Home
+title: framerui.com Home
 date: 2021-07-15
 thumbnail: /blogpost.jpg
 ---
