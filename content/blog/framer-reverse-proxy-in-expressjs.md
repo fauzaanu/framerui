@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer through Express.js
+title: Reverse Proxying Framer through Express.js
 date: 2023-04-06
 description: Learn how to set up a reverse proxy using Express.js to serve your Framer-based web application, providing a seamless user experience.
 tags: [Framer, Express.js, Reverse Proxy, Web Development]
@@ -69,4 +69,6 @@ In the world of web development, the ability to seamlessly integrate different t
 
 4. **Scalability and Flexibility**: As your application grows, the reverse proxy approach allows you to scale and adapt your backend infrastructure independently, without affecting the frontend Framer components.
 
-By leveraging Express.js as a reverse proxy for your Framer-based web application, you can unlock a world of possibilities, combining the design power of Framer with the server-side capabilities of a robust backend framework.
+## Enhancing Reverse Proxying with Caching
+
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

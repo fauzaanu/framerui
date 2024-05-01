@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer Through Ruby on Rails
+title: Reverse Proxying Framer Through Ruby on Rails
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a Ruby on Rails backend, enabling you to seamlessly integrate your designs into a web application.
 tags: [Framer, Ruby on Rails, reverse proxy, web development, prototyping]
@@ -100,4 +100,6 @@ Reverse proxying is a technique where a backend framework, in this case, Ruby on
 
 - **Flexibility**: Reverse proxying gives you the ability to customize and extend the Framer project's functionality by leveraging the full power of Ruby on Rails.
 
-By following the steps outlined in this guide, you can successfully reverse proxy your Framer designs and prototypes through a Ruby on Rails backend, enabling you to seamlessly integrate your designs into a web application.
+## Enhancing Reverse Proxying with Caching
+
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer Through Flask
+title: Reverse Proxying Framer Through Flask
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer application through a Flask backend, enabling you to serve your Framer site within a single request-response cycle.
 tags: [Framer, Flask, reverse proxy, web development, prototyping]
@@ -87,6 +87,6 @@ Reverse proxying is a technique where a backend server, in this case, Flask, act
 - **Improved Security**: Reverse proxying can help improve the security of your application by adding an additional layer of protection and control.
 - **Flexibility**: Using Flask as a reverse proxy allows you to integrate your Framer application with other backend services or functionality, expanding the capabilities of your overall solution.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through Flask is a powerful technique that can enhance the user experience and integration of your Framer-based projects. By following the steps outlined in this guide, you can easily set up a Flask reverse proxy to serve your Framer application, unlocking new possibilities for your web development projects.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

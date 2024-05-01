@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through Falcon (Python)
+title: Reverse Proxying Framer through Falcon (Python)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Falcon Python web framework, enabling you to serve your Framer content within a single request-response cycle.
 tags: [Framer, Falcon, reverse proxy, Python, web development, prototyping]
@@ -60,6 +60,6 @@ You can further customize the reverse proxy behavior to suit your needs. For exa
 - **Modify the response headers**: Adjust the response headers to fit your application's requirements, such as adding CORS headers or caching directives.
 - **Implement error handling**: Add error handling to gracefully handle any issues that may arise during the reverse proxy process.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-By leveraging the Falcon web framework to reverse proxy your Framer designs and prototypes, you can seamlessly integrate your Framer content into your web application. This approach allows you to maintain a unified user experience and simplify the deployment of your Framer-powered projects. With the flexibility and power of Falcon, you can create robust and efficient reverse proxy solutions to bring your Framer designs to life.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

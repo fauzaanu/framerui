@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through Symfony (PHP)
+title: Reverse Proxying Framer through Symfony (PHP)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a Symfony backend, enabling you to seamlessly integrate your designs into a PHP-based web application.
 tags: [Framer, Symfony, reverse proxy, PHP, web development, prototyping]
@@ -87,6 +87,6 @@ const publishUrl = 'https://your-symfony-app.com/framer/your-framer-project-id';
 
 3. **Centralized Deployment**: By hosting your Framer-based content through your Symfony application, you can manage the deployment and hosting of your entire web application from a single platform.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through Symfony provides a powerful way to integrate your design prototypes into a PHP-based web application. By setting up a reverse proxy, you can seamlessly serve your Framer-based content directly from your Symfony backend, enabling you to create a cohesive and integrated user experience. This approach offers improved security, customization, and centralized deployment, making it a valuable technique for web developers working with Framer and Symfony.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

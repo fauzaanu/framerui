@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer Through WordPress
+title: Reverse Proxying Framer Through WordPress
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a WordPress backend, enabling you to seamlessly integrate your interactive content into your WordPress-powered website.
 tags: [Framer, reverse proxy, WordPress, web development, prototyping]
@@ -41,6 +41,6 @@ By reverse proxying Framer through WordPress, you can enjoy several benefits:
 
 4. **Centralized Content Management**: By integrating Framer with WordPress, you can manage your entire website, including the interactive Framer-powered content, from a single platform, simplifying the content management process.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through WordPress is a powerful technique that allows you to leverage the strengths of both platforms. By integrating your Framer designs and prototypes into your WordPress-powered website, you can create a seamless and engaging user experience, while also benefiting from enhanced security, performance, and centralized content management. Follow the steps outlined in this guide to get started and unlock the full potential of this powerful integration.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

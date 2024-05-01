@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through Rocket (Rust)
+title: Reverse Proxying Framer through Rocket (Rust)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer application through the Rocket web framework in Rust, enabling you to serve your Framer site within a single request-response cycle.
 tags: [Framer, Rocket, Rust, reverse proxy, web development]
@@ -85,6 +85,6 @@ The `FramerResponse` struct is responsible for responding to the client with the
 
 3. **Seamless Integration**: Reverse proxying Framer through Rocket enables you to seamlessly integrate the design and prototyping capabilities of Framer with the robust backend features of Rocket, creating a cohesive and powerful web application.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through the Rocket web framework in Rust is a powerful technique that can enhance the performance and simplify the architecture of your web application. By following the steps outlined in this guide, you can easily integrate Framer with Rocket, enabling you to serve your Framer site within a single request-response cycle and provide a seamless user experience.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through django web framework
+title: Reverse proxying framer through django web framework
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Django web framework, enabling you to seamlessly integrate your interactive content into your web application.
 tags: [Framer, Django, reverse proxy, web development, prototyping]
@@ -58,6 +58,6 @@ urlpatterns = [
 
 - **Customization Opportunities**: With the reverse proxy in place, you can further customize the Framer content, such as adding authentication, modifying the response, or integrating it with other parts of your Django application.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through Django provides a powerful way to integrate your interactive prototypes into your web application. By following the steps outlined in this guide, you can set up a reverse proxy that seamlessly serves your Framer content, enabling you to create a cohesive and engaging user experience for your web application.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

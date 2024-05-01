@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer Through Laravel Web Framework
+title: Reverse Proxying Framer Through Laravel Web Framework
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Laravel web framework, enabling you to seamlessly integrate your frontend and backend development.
 tags: [Framer, Laravel, reverse proxy, web development, prototyping]
@@ -66,8 +66,6 @@ Depending on your specific requirements, you may want to customize the reverse p
 - **Cache Responses**: Leverage Laravel's caching mechanisms to cache the Framer responses, improving the performance of your application.
 - **Handle Dynamic Content**: If your Framer project includes dynamic content, you may need to handle that within the reverse proxy route.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-By reverse proxying Framer through the Laravel web framework, you can create a seamless integration between your frontend and backend development workflows. This approach offers benefits such as centralized control, improved security, and a cohesive user experience.
-
-Follow the steps outlined in this article to set up the reverse proxy, and don't hesitate to customize the implementation to fit your specific needs. Leveraging the power of Framer and Laravel together can help you build robust and efficient web applications.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through Gin (GO)
+title: Reverse Proxying Framer through Gin (GO)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Gin web framework in Go, enabling you to serve your Framer content seamlessly.
 tags: [Framer, Gin, Go, reverse proxy, web development, prototyping]
@@ -88,4 +88,6 @@ By reverse proxying your Framer designs and prototypes through Gin, you can enjo
 
 4. **Performance**: Gin is a fast and efficient web framework, which can help improve the overall performance of your Framer-powered web application.
 
-By following the steps outlined in this guide, you can easily set up a reverse proxy for your Framer designs and prototypes using the Gin web framework in Go, unlocking new possibilities for your web development projects.
+## Enhancing Reverse Proxying with Caching
+
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

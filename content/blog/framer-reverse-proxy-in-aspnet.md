@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer Through ASP.NET
+title: Reverse Proxying Framer Through ASP.NET
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through an ASP.NET backend, enabling you to seamlessly integrate your interactive content into your web application.
 tags: [Framer, reverse proxy, ASP.NET, web development, prototyping]
@@ -77,6 +77,6 @@ Reverse proxying is a powerful technique that allows you to serve your Framer-ba
 
 - **Expanded Functionality**: Combining Framer's prototyping capabilities with the robust features of ASP.NET allows you to create more sophisticated and feature-rich web applications.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through an ASP.NET backend is a powerful technique that enables you to integrate your interactive designs and prototypes directly into your web application. By following the steps outlined in this guide, you can set up the reverse proxy, serve Framer content, and leverage the benefits of this integration to create engaging and seamless user experiences.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

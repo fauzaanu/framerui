@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through cloudflare workers
+title: Reverse Proxying Framer through cloudflare workers
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer site through Cloudflare Workers, enabling you to serve your Framer-powered content directly from the edge.
 tags: [Framer, Cloudflare Workers, reverse proxy, web development, edge computing]
@@ -55,6 +55,6 @@ This code listens for incoming requests and checks if the request is for a Frame
 
 - **Simplified Deployment**: With Cloudflare Workers, you can easily deploy and manage your reverse proxy without the need for additional infrastructure or server management.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying your Framer site through Cloudflare Workers is a powerful technique that can help improve the performance, reliability, and security of your Framer-powered content. By following the steps outlined in this guide, you can set up a reverse proxy and start enjoying the benefits of edge computing for your Framer projects.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

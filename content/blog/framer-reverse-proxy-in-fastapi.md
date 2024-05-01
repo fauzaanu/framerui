@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer Through FastAPI
+title: Reverse Proxying Framer Through FastAPI
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a FastAPI backend, enabling you to serve your interactive content seamlessly.
 tags: [Framer, FastAPI, reverse proxy, web development, prototyping]
@@ -52,6 +52,6 @@ By reverse proxying Framer through FastAPI, you can enjoy the following benefits
 3. **Flexibility and Scalability**: The combination of Framer's design capabilities and FastAPI's backend functionality allows you to create highly customizable and scalable web applications.
 4. **Easier Maintenance**: By centralizing the application logic in the FastAPI backend, you can more easily manage and maintain your Framer-based web application.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through FastAPI is a powerful technique that allows you to seamlessly integrate design and functionality, creating a cohesive and secure web application. By following the steps outlined in this guide, you can leverage the strengths of both Framer and FastAPI to build impressive and user-friendly web experiences.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

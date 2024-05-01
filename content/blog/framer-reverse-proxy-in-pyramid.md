@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through pyramid (python)
+title: Reverse Proxying Framer through pyramid (python)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Pyramid Python framework, enabling you to seamlessly integrate your designs into your web application.
 tags: [Framer, Pyramid, reverse proxy, Python, web development, prototyping]
@@ -32,6 +32,6 @@ Reverse proxying is a powerful technique that allows you to serve your Framer-ba
 
 4. **Easier Deployment**: Integrating your Framer content through a Pyramid reverse proxy simplifies the deployment process, as you can manage and deploy your entire web application as a single unit.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through the Pyramid Python framework is a powerful technique that allows you to seamlessly integrate your Framer-based designs and prototypes into your web application. By following the steps outlined in this guide, you can leverage the benefits of both Framer and Pyramid to create a cohesive and efficient user experience for your users.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

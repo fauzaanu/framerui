@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to Reverse Proxy Framer Through Vanilla PHP
+title: Reverse Proxying Framer Through Vanilla PHP
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a vanilla PHP backend, enabling you to seamlessly integrate your designs into your web application.
 tags: [Framer, reverse proxy, PHP, web development, prototyping]
@@ -43,6 +43,6 @@ Reverse proxying is a powerful technique that allows you to serve your Framer-ba
 
 4. **Scalability**: By offloading the Framer server requests to your PHP backend, you can potentially improve the scalability of your application, especially if you have a high volume of traffic.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through a vanilla PHP backend is a powerful technique that can help you integrate your Framer-based designs and prototypes into your web application. By following the steps outlined in this guide, you can set up a reverse proxy and enjoy the benefits of seamless integration, improved security, and enhanced flexibility. As you continue to develop your web application, consider leveraging the power of reverse proxying to create a cohesive and engaging user experience.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

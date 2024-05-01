@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy framer through Fiber (GO)
+title: Reverse Proxying Framer through Fiber (GO)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer application through the Fiber Go framework, enabling you to serve your Framer site within a single request-response cycle.
 tags: [Framer, Fiber, Go, reverse proxy, web development]
@@ -97,4 +97,6 @@ Framer is a powerful design and prototyping tool that allows you to create inter
 
 - **Performance**: Fiber is a fast and efficient Go web framework, which can help improve the overall performance of your reverse-proxied Framer application.
 
-By following the steps outlined in this guide, you can successfully reverse proxy your Framer application through the Fiber Go framework, creating a more integrated and efficient web experience for your users.
+## Enhancing Reverse Proxying with Caching
+
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

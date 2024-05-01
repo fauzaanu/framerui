@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy Framer through Hapi.js
+title: Reverse Proxying Framer through Hapi.js
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Hapi.js framework, enabling you to serve your Framer content within a single request-response cycle.
 tags: [Framer, Hapi.js, reverse proxy, web development, prototyping]
@@ -86,6 +86,6 @@ Reverse proxying is a powerful technique that allows you to serve content from o
 
 4. **Easier Deployment**: By encapsulating the Framer content within your Hapi.js server, you can simplify the deployment process and ensure that your Framer-based application is served alongside your other backend services.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying Framer through Hapi.js is a powerful technique that can help you create seamless and efficient Framer-based applications. By following the steps outlined in this guide, you can set up a reverse proxy and start serving your Framer designs and prototypes within a single request-response cycle, providing a better user experience and more control over your application's architecture.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.

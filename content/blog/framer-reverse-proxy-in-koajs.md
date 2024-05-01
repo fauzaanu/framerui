@@ -1,6 +1,6 @@
 ---
 author: Fauzaan Gasim
-title: How to reverse proxy Framer through Koa.js
+title: Reverse Proxying Framer through Koa.js
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through Koa.js, a popular Node.js web framework, to serve your interactive content seamlessly.
 tags: [Framer, Koa.js, reverse proxy, web development, prototyping]
@@ -74,6 +74,6 @@ By reverse proxying your Framer project through Koa.js, you can enjoy several be
 3. **Flexibility and Scalability**: Koa.js is a lightweight and modular framework, making it easy to integrate with other services and scale your application as needed.
 4. **Unified User Experience**: By serving your Framer project through a single, unified endpoint, you can provide a seamless user experience, hiding the complexity of the underlying technologies.
 
-## Conclusion
+## Enhancing Reverse Proxying with Caching
 
-Reverse proxying your Framer designs and prototypes through Koa.js is a powerful technique that can enhance the delivery, performance, and security of your web applications. By following the steps outlined in this article, you can set up a reverse proxy and enjoy the benefits of this approach. As you continue to develop your Framer-based projects, consider exploring the additional capabilities of Koa.js to further optimize your web application.
+In addition to seamlessly integrating content from any source into your web application, it's crucial to optimize the performance of your reverse proxy setup. One effective way to do this is by implementing caching. This ensures that once a design or content is loaded, subsequent requests for the same content are served from the cache, reducing the load on the original servers and improving the response time for your users.
