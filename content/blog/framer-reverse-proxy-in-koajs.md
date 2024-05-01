@@ -4,7 +4,7 @@ title: Reverse Proxying Framer through Koa.js
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through Koa.js, a popular Node.js web framework, to serve your interactive content seamlessly.
 tags: [Framer, Koa.js, reverse proxy, web development, prototyping]
-thumbnail: "techs/koa.jpg"
+thumbnail: "/techs/koa.jpg"
 ---
 
 ## Reverse Proxying Framer with Koa.js

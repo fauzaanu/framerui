@@ -4,7 +4,7 @@ title: Reverse Proxying Framer Through ASP.NET
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through an ASP.NET backend, enabling you to seamlessly integrate your interactive content into your web application.
 tags: [Framer, reverse proxy, ASP.NET, web development, prototyping]
-
+thumbnail: "/techs/workers.png"
 ---
 
 ## Understanding Reverse Proxying with Framer

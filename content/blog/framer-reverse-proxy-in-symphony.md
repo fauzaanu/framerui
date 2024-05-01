@@ -4,7 +4,7 @@ title: Reverse Proxying Framer through Symfony (PHP)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a Symfony backend, enabling you to seamlessly integrate your designs into a PHP-based web application.
 tags: [Framer, Symfony, reverse proxy, PHP, web development, prototyping]
-thumbnail: "techs/symphony.jpg"
+thumbnail: "/techs/symphony.jpg"
 ---
 
 ## Reverse Proxying Framer with Symfony

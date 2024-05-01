@@ -4,7 +4,7 @@ title: Reverse Proxying Framer through pyramid (python)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Pyramid Python framework, enabling you to seamlessly integrate your designs into your web application.
 tags: [Framer, Pyramid, reverse proxy, Python, web development, prototyping]
-thumbnail: "techs/pyramid.jpg"
+thumbnail: "/techs/pyramid.jpg"
 ---
 
 ## Understanding Reverse Proxying with Framer

@@ -4,7 +4,7 @@ title: Reverse Proxying Framer through Gin (GO)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Gin web framework in Go, enabling you to serve your Framer content seamlessly.
 tags: [Framer, Gin, Go, reverse proxy, web development, prototyping]
-thumbnail: "techs/gin.jpg"
+thumbnail: "/techs/gin.jpg"
 ---
 
 ## Reverse Proxying Framer with Gin

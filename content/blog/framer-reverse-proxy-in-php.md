@@ -4,7 +4,7 @@ title: Reverse Proxying Framer Through Vanilla PHP
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a vanilla PHP backend, enabling you to seamlessly integrate your designs into your web application.
 tags: [Framer, reverse proxy, PHP, web development, prototyping]
-thumbnail: "techs/php.png"
+thumbnail: "/techs/php.png"
 ---
 
 ## Understanding Reverse Proxying with Framer

@@ -4,7 +4,7 @@ title: Reverse Proxying Framer through cloudflare workers
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer site through Cloudflare Workers, enabling you to serve your Framer-powered content directly from the edge.
 tags: [Framer, Cloudflare Workers, reverse proxy, web development, edge computing]
-thumbnail: "techs/workers.png"
+thumbnail: "/techs/workers.png"
 ---
 
 ## Understanding Reverse Proxying with Cloudflare Workers

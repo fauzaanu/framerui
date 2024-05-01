@@ -4,7 +4,7 @@ title: Reverse Proxying Framer Through WordPress
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a WordPress backend, enabling you to seamlessly integrate your interactive content into your WordPress-powered website.
 tags: [Framer, reverse proxy, WordPress, web development, prototyping]
-thumbnail: "techs/wordpress.png"
+thumbnail: "/techs/wordpress.png"
 ---
 
 ## Integrating Framer and WordPress with Reverse Proxy

@@ -4,7 +4,7 @@ title: Reverse Proxying Framer through Falcon (Python)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Falcon Python web framework, enabling you to serve your Framer content within a single request-response cycle.
 tags: [Framer, Falcon, reverse proxy, Python, web development, prototyping]
-thumbnail: "techs/falcon.png"
+thumbnail: "/techs/falcon.png"
 ---
 
 ## Understanding Reverse Proxying with Framer
