@@ -4,6 +4,7 @@ title: Reverse Proxying Framer Through FastAPI
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a FastAPI backend, enabling you to serve your interactive content seamlessly.
 tags: [Framer, FastAPI, reverse proxy, web development, prototyping]
+thumbnail: "techs/fastapi.png"
 ---
 
 ## Reverse Proxying Framer with FastAPI

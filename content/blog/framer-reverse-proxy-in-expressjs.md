@@ -4,6 +4,7 @@ title: Reverse Proxying Framer through Express.js
 date: 2023-04-06
 description: Learn how to set up a reverse proxy using Express.js to serve your Framer-based web application, providing a seamless user experience.
 tags: [Framer, Express.js, Reverse Proxy, Web Development]
+thumbnail: "techs/express.png"
 ---
 
 ## Leveraging Express.js as a Reverse Proxy for Framer

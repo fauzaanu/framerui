@@ -4,6 +4,7 @@ title: Reverse Proxying Framer through Rocket (Rust)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer application through the Rocket web framework in Rust, enabling you to serve your Framer site within a single request-response cycle.
 tags: [Framer, Rocket, Rust, reverse proxy, web development]
+thumbnail: "techs/rust.jpg"
 ---
 
 ## Reverse Proxying Framer with Rocket

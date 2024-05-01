@@ -4,6 +4,7 @@ title: Reverse Proxying Framer Through Laravel Web Framework
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Laravel web framework, enabling you to seamlessly integrate your frontend and backend development.
 tags: [Framer, Laravel, reverse proxy, web development, prototyping]
+thumbnail: "/techs/laravel.jpg"
 ---
 
 ## Integrating Framer and Laravel: The Power of Reverse Proxying

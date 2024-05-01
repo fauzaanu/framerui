@@ -4,6 +4,7 @@ title: Reverse proxying framer through django web framework
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Django web framework, enabling you to seamlessly integrate your interactive content into your web application.
 tags: [Framer, Django, reverse proxy, web development, prototyping]
+thumbnail: "techs/django.png"
 ---
 
 ## Reverse Proxying Framer with Django

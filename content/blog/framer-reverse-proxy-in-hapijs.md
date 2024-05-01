@@ -4,6 +4,7 @@ title: Reverse Proxying Framer through Hapi.js
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through the Hapi.js framework, enabling you to serve your Framer content within a single request-response cycle.
 tags: [Framer, Hapi.js, reverse proxy, web development, prototyping]
+thumbnail: "techs/hapi.png"
 ---
 
 ## Understanding Reverse Proxying with Hapi.js

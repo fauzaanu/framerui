@@ -4,6 +4,7 @@ title: Reverse Proxying Framer through Fiber (GO)
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer application through the Fiber Go framework, enabling you to serve your Framer site within a single request-response cycle.
 tags: [Framer, Fiber, Go, reverse proxy, web development]
+thumbnail: "techs/fiber.png"
 ---
 
 ## Reverse Proxying Framer with Fiber (Go)

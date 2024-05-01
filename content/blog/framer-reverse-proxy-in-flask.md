@@ -4,6 +4,7 @@ title: Reverse Proxying Framer Through Flask
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer application through a Flask backend, enabling you to serve your Framer site within a single request-response cycle.
 tags: [Framer, Flask, reverse proxy, web development, prototyping]
+thumbnail: "techs/flask.webp"
 ---
 
 ## Understanding Reverse Proxying with Flask

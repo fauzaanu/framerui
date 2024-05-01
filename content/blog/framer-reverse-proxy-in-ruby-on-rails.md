@@ -4,6 +4,7 @@ title: Reverse Proxying Framer Through Ruby on Rails
 date: 2023-04-06
 description: Learn how to reverse proxy your Framer designs and prototypes through a Ruby on Rails backend, enabling you to seamlessly integrate your designs into a web application.
 tags: [Framer, Ruby on Rails, reverse proxy, web development, prototyping]
+thumbnail: "techs/ruby.png"
 ---
 
 ## Understanding Reverse Proxying with Ruby on Rails
